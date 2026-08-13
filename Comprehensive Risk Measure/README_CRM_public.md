@@ -1,6 +1,3 @@
-# Comprehensive Risk Measure (CRM) Project
-
-Built to match the Morgan Stanley 2026 Risk Management Internship (Quantitative, Budapest) job description, which names "Comprehensive Risk Measure" alongside VaR and Incremental Risk Charge as one of the Firm's core market risk models.
 
 ## What CRM is, briefly
 
