@@ -1,6 +1,3 @@
-# Incremental Risk Charge (IRC) Project
-
-Built to match the Morgan Stanley 2026 Risk Management Internship (Quantitative, Budapest) job description, which names "Incremental Risk Charge" alongside VaR and Comprehensive Risk Measure as one of the Firm's core market risk models.
 
 ## What IRC is, and how it differs from CRM
 
