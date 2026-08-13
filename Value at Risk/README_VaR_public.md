@@ -1,6 +1,3 @@
-# Value at Risk (VaR) Project
-
-Built to match the Morgan Stanley 2026 Risk Management Internship (Quantitative, Budapest) job description, which names "Value at Risk" as one of the Firm's core market risk models, alongside "conduct sensitivity studies, assess the model behavior and stability and perform back tests."
 
 ## What VaR is, briefly
 
@@ -22,7 +19,7 @@ VaR answers a simple question: over a given holding period and confidence level,
 
 ## Files
 
-- `VaR_project.xlsx` — the full workbook: Data sheet (prices, returns, rolling stats), VaR Summary sheet (Historical + Parametric VaR, backtest + Kupiec test, stress test), and a Chart sheet (daily return vs. rolling VaR bands)
+the full workbook: Data sheet (prices, returns, rolling stats), VaR Summary sheet (Historical + Parametric VaR, backtest + Kupiec test, stress test), and a Chart sheet (daily return vs. rolling VaR bands)
 
 ## Requirements to open
 
