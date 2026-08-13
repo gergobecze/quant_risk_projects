@@ -1,6 +1,3 @@
-# Credit Risk / Probability-of-Default Project
-
-Built to match the Morgan Stanley 2026 Risk Management Internship (Quantitative, Budapest) job description, which names "hypothesis testing, regression and discriminant analyses" as a plus, and "developing models for portfolio analyses purposes, such as credit limit setting" as a core responsibility.
 
 ## Why synthetic data
 
